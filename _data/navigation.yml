@@ -67,8 +67,8 @@ el: &DEFAULT_EL
       section: portfolio
     - title: "Σχετικά"
       section: about
-    - title: "Χρονολόγιο"
-      section: timeline
+    # - title: "Χρονολόγιο"
+    #   section: timeline
     - title: "Στοιχεία"
       section: team
     - title: "Επικοινωνία"

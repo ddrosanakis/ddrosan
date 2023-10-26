@@ -321,36 +321,37 @@ es-ES:
 es-CO:
   <<: *DEFAULT_ES
 
+#######################################################################################
 el: &DEFAULT_EL
   header:
     title: Ηλεκτρολόγος Μηχανικός & Μηχανικός Η/Υ, ΑΠΘ, MSc!
-    text: It's Nice To Meet You
+    text: Ενεργειακές Μελέτες 
     button: Πληροφορίες
     buttonlink: "#services"
 
   services:
     title: "Υπηρεσίες"
-    text: "Lorem ipsum"
+    text: "Με τεχνογνωσία υψηλού επιπέδου"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Πηγές Ενέργειας"
+        desc: "Μελέτη και κατασκευή μεγάλων αιολικών και φωτοβολταϊκών έργων πολλών ΜW."
+        icon: fas fa-solar-panel" #find more at https://fontawesome.com/icons
+      - title: "Ενεργειακές Γραμμές"
+        desc:  Σχεδίαση και πλήρης διαχείριση κατασκευής (management) γραμμών χαμηλής και μέσης τάσης εναερίων και υπογείων κυκλωμάτων (έχουν σχεδιαστεί και κατασκευαστεί 50km εναερίων γραμμών μέσης τάσης (20kV) και περίπου 150km υπόγειων δικτύων μέσης τάσης (20kV)"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Εγκαταστάσεεις Κτιρίων"
+        desc: "Ενεργειακές μελέτες κτιριακών εγκαταστάσεων."
+        icon: fab fa-list-check
 
   portfolio:
-    title: "Portfolio"
+    title: "Έργα"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: "Χρονολόγιο"
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
@@ -381,13 +382,13 @@ el: &DEFAULT_EL
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
+    title: "Σχετικά"
     text: "our story"
     body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
   clients:
-    section: clients
+    section: Πελάτες
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
@@ -405,7 +406,7 @@ el: &DEFAULT_EL
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "Στοιχεία"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
@@ -442,7 +443,7 @@ el: &DEFAULT_EL
             icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
+    title: "Επικοινωνία"
     text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
