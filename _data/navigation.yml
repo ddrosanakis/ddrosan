@@ -56,3 +56,22 @@ es-ES:
   <<: *DEFAULT_ES
 es-CO:
   <<: *DEFAULT_ES
+
+# Greek
+# -----------------
+el: &DEFAULT_EL
+  nav:
+    - title: "Υπηρεσίες"
+      section: services
+    - title: "Έργα"
+      section: portfolio
+    - title: "Σχετικά"
+      section: about
+    - title: "Χρονολόγιο"
+      section: timeline
+    - title: "Στοιχεία"
+      section: team
+    - title: "Επικοινωνία"
+      section: contact
+el-GR:
+  <<: *DEFAULT_EL
