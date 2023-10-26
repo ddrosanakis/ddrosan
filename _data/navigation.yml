@@ -63,10 +63,10 @@ el: &DEFAULT_EL
   nav:
     - title: "Υπηρεσίες"
       section: services
-    - title: "Έργα"
-      section: portfolio
-    - title: "Σχετικά"
-      section: about
+    # - title: "Έργα"
+    #   section: portfolio
+    # - title: "Σχετικά"
+    #   section: about
     # - title: "Χρονολόγιο"
     #   section: timeline
     - title: "Στοιχεία"
