@@ -336,13 +336,13 @@ el: &DEFAULT_EL
     list:
       - title: "Πηγές Ενέργειας"
         desc: "Μελέτη και κατασκευή μεγάλων αιολικών και φωτοβολταϊκών έργων πολλών ΜW."
-        icon: fas fa-solar-panel" #find more at https://fontawesome.com/icons
+        icon: fas fa-solar-panel #find more at https://fontawesome.com/icons
       - title: "Ενεργειακές Γραμμές"
         desc:  Σχεδίαση και πλήρης διαχείριση κατασκευής (management) γραμμών χαμηλής και μέσης τάσης εναερίων και υπογείων κυκλωμάτων (έχουν σχεδιαστεί και κατασκευαστεί 50km εναερίων γραμμών μέσης τάσης (20kV) και περίπου 150km υπόγειων δικτύων μέσης τάσης (20kV)"
         icon: fas fa-laptop
       - title: "Εγκαταστάσεεις Κτιρίων"
         desc: "Ενεργειακές μελέτες κτιριακών εγκαταστάσεων."
-        icon: fab fa-list-check
+        icon: fab fa-tasks
 
   portfolio:
     title: "Έργα"
