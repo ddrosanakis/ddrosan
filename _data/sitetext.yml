@@ -344,11 +344,11 @@ el: &DEFAULT_EL
         desc: "Ενεργειακές μελέτες κτιριακών εγκαταστάσεων μεγάλης κλίμακας."
         icon: fas fa-tasks
 
-  portfolio:
-    title: "Έργα"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
-    closebutton: "Close Project"
+  # portfolio:
+  #   title: "Έργα"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   section: portfolio
+  #   closebutton: "Close Project"
 
   # timeline:
   #   title: "Χρονολόγιο"
