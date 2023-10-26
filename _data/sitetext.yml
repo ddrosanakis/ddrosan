@@ -338,11 +338,11 @@ el: &DEFAULT_EL
         desc: "Μελέτη και κατασκευή μεγάλων αιολικών και φωτοβολταϊκών έργων πολλών ΜW."
         icon: fas fa-solar-panel #find more at https://fontawesome.com/icons
       - title: "Ενεργειακές Γραμμές"
-        desc:  Σχεδίαση και πλήρης διαχείριση κατασκευής (management) γραμμών χαμηλής και μέσης τάσης εναερίων και υπογείων κυκλωμάτων (έχουν σχεδιαστεί και κατασκευαστεί 50km εναερίων γραμμών μέσης τάσης (20kV) και περίπου 150km υπόγειων δικτύων μέσης τάσης (20kV)"
-        icon: fas fa-laptop
+        desc:  Σχεδίαση και πλήρης διαχείριση κατασκευής (management) γραμμών χαμηλής και μέσης τάσης εναερίων και υπογείων κυκλωμάτων."
+        icon: fas fa-pencil-ruler
       - title: "Εγκαταστάσεεις Κτιρίων"
-        desc: "Ενεργειακές μελέτες κτιριακών εγκαταστάσεων."
-        icon: fab fa-tasks
+        desc: "Ενεργειακές μελέτες κτιριακών εγκαταστάσεων μεγάλης κλίμακας."
+        icon: fas fa-tasks
 
   portfolio:
     title: "Έργα"
@@ -350,103 +350,103 @@ el: &DEFAULT_EL
     section: portfolio
     closebutton: "Close Project"
 
-  timeline:
-    title: "Χρονολόγιο"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
+  # timeline:
+  #   title: "Χρονολόγιο"
+  #   text: "Lorem ipsum timeline"
+  #   section: timeline
+  #   # left is the default
+  #   #start_align: "left"
+  #   events:
+  #     - title: "Our Humble Beginnings"
+  #       year: "2009-2011"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #       image: assets/img/timeline/1.jpg
+  #       alt:
+  #     - title: "An Agency is Born"
+  #       year: "March 2011"
+  #       desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+  #       image: assets/img/timeline/2.jpg
+  #       alt:
+  #     - title: "Jekyll Theme is created"
+  #       year: "2019"
+  #       desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+  #       image: assets/img/timeline/3.jpg
+  #       alt: image alt text
+  #     - title: "Title"
+  #       year: "2009-2011"
+  #       desc: "Your description here, **Markdown** is fully supported."
+  #       image: assets/img/timeline/4.jpg
+  #       alt:
+  #       # you can enforce the alignment
+  #       align: right
+  #   end: "Be Part <br> of Our <br> Story!"
 
-  about:
-    title: "Σχετικά"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
+  # about:
+  #   title: "Σχετικά"
+  #   text: "our story"
+  #   body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+  #   section: about
 
-  clients:
-    section: Πελάτες
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+  # clients:
+  #   section: Πελάτες
+  #   max-height: 100px
+  #   horizontal-scrolling: "" #"yes/no"
+  #   list:
+  #     - title: "envato"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/envato.jpg
+  #     - title: "designmodo"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/designmodo.jpg
+  #     - title: "themeforest"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/themeforest.jpg
+  #     - title: "Creative Market"
+  #       url: https://github.com/raviriley/agency-jekyll-theme
+  #       logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "Στοιχεία"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "Ενεργειακές Μελέτες"
+    subtext: Η εμπειρία σε μελέτη και κατασκευή μεγάλων αιολικών και φωτοβολταϊκών έργων πολλών ΜW καθώς και η εμπειρία σε ενεργειακές μελέτες κτιριακών εγκαταστάσεων μας δίνει την δυνατότητα να σας προτείνουμε την βέλτιστη λύση για εξοικονόμηση ενέργειας.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Δροσανάκης Δημήτριος"
+        role: "Ηλεκτρολόγος Μηχανικός & Μηχανικός Η/Υ, ΑΠΘ, MSc"
+        image: assets/img/team/1.jpg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          # - url: https://twitter.com
+          #   icon: fab fa-twitter
+          # - url: https://facebook.com
+          #   icon: fab fa-facebook-f
+          - url: https://www.linkedin.com/in/dimitris-drosanakis-b10a9ba3/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+      # - name: "Larry Parker"
+      #   role: "Lead Marketer"
+      #   image: assets/img/team/2.jpg
+      #   social:
+      #     - url: https://twitter.com
+      #       icon: fab fa-twitter
+      #     - url: https://facebook.com
+      #       icon: fab fa-facebook-f
+      #     - url: https://linkedin.com
+      #       icon: fab fa-linkedin-in
+      # - name: "Diana Perterson"
+      #   role: "Lead Developer"
+      #   image: assets/img/team/500x500.jpg
+      #   social:
+      #     - url: https://twitter.com
+      #       icon: fab fa-twitter
+      #     - url: https://facebook.com
+      #       icon: fab fa-facebook-f
+      #     - url: https://linkedin.com
+      #       icon: fab fa-linkedin-in
 
   contact:
     title: "Επικοινωνία"
-    text: "Lorem ipsum or call 123456789"
+    text: "Λεωφόρος Εθνικής Αντιστάσεως 56 - Ηράκλειο Κρήτης, 71306 - Ελλάδα"
     section: contact
-    name: "Name*"
+    name: "*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
